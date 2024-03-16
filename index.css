@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button{
+    border: none;
+    padding: 8px 16px;  
+    border: black solid 1px;
+    font-weight: bold;
+}
+
+#save-el,#tab-el{
+    background-color: rgb(89, 142, 212);
+    color: white;
+}
+
+#ul-el{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+/* a{
+    text-decoration: none;
+} */
+
+li{
+    margin-top: 5px;
+}
